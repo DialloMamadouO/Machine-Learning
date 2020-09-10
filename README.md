@@ -1,5 +1,5 @@
 # Machine-Learning
-This exercise consiste of analyzing credit risk on one part using different resampling techniques and on the other part using ensemble techniques. On the first part we will use
+This exercise consist of analyzing credit risk on one part using different resampling techniques and on the other part using ensemble techniques. On the first part we will use
 oversampling, undersampling and a combination (Over and Under) sampling techniques to see which model does a better job predicting credit risk. On the second part we will do the same using different ensemble techniques to see which model does a better job predicting credit risk as well. The recoreds for the analysis are on the ipynb files.
 
 RESAMPLING TECHNIQUES:
