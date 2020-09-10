@@ -31,6 +31,7 @@ The Easy Ensemble Classifier model had the best geometric mean score at 0.93 com
 What are the top three features?
 According to the features importances classification on the ipynb file the top three features are:
 
+
 0.07876809003486353, total_rec_prncp,
 0.05883806887524815, total_pymnt,
 0.05625613759225244, total_pymnt_inv
